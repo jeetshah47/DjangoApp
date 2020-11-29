@@ -25,7 +25,7 @@ SECRET_KEY = '@$)p(+z&tew7^*k+^nugq(86tt4+(^3x7^&qgqcorll+6fjvba'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://sheltered-springs-54550.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
